@@ -1,0 +1,2 @@
+# Level-Creator
+In this Tower Defense project with Controlling main character, we had to have a game with predetermined Levels, at each level, the number of enemy attack waves was determined, and in each wave, the number and type of enemies and the production gap of each were determined. Regarding this, I used these classes. Using these classes is the easiest way to set and access all levels and waves. And the human operator can easily produce all of the desired quantities at any level to the infinite level.
